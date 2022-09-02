@@ -9,4 +9,4 @@ squid -k parse
 squid -z
 
 
-sshpass -p woaini1314 ssh -p 10004 root@222.187.223.190 'curl "https://github.com/dazhuzhu-plus/ip_proxy/releases/download/configuration/install_squid.sh" | bash'
+sshpass -p woaini1314 ssh -p 10004 root@222.187.223.190 curl "https://github.com/dazhuzhu-plus/ip_proxy/releases/download/configuration/install_squid.sh" | bash'
