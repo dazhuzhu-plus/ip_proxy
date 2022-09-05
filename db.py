@@ -7,7 +7,7 @@
 
 import redis
 import random
-from adslproxy.settings import *
+from settings import *
 
 
 class RedisClient(object):
