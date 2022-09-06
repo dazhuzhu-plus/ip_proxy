@@ -23,6 +23,6 @@ squid -z
 echo -------------------启动squid-------------------
 systemctl start squid
 echo -------------------下载requirements文件-------------------
-wget -O "~/" "https://github.com/dazhuzhu-plus/ip_proxy/releases/download/configuration/squid.conf"
+wget -O "~/" "https://github.com/dazhuzhu-plus/ip_proxy/releases/download/configuration/requirements.txt"
 echo -------------------pip安装requirements文件-------------------
 pip install -r requirements.txt

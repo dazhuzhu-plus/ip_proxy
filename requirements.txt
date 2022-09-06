@@ -1,0 +1,5 @@
+requests
+redis
+loguru
+retrying
+platform
